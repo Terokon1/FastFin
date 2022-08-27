@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/1/AndroidStudioProjects/FastFin/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.2435" />
         <entry key="..\:/Users/1/AndroidStudioProjects/FastFin/app/src/main/res/layout/activity_main.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FastFin/app/src/main/res/layout/fragment_currency.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FastFin/app/src/main/res/layout/holder_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FastFin/app/src/main/res/layout/item_list.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FastFin/app/src/main/res/layout/list_item.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FastFin/app/src/main/res/menu/toolbar_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
